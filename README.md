@@ -1,2 +1,3 @@
-# auto-iot-platform-z2ks
-A IoT device management platform for modern development workflows
+# Auto Iot Platform Z2Ks
+
+A IoT device management platform for modern development workflows.
